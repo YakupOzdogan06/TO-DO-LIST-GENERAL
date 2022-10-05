@@ -1,0 +1,15 @@
+* {
+  text-align: center;
+}
+
+#header {
+  font-size: 25px;
+}
+
+a {
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+}
